@@ -1,0 +1,17 @@
+<data>
+	<payload>
+		<format>json</format>
+		<access_token>1516535125321979|1lqS9X6vwwhh7D3TELuEhHZECsE</access_token>
+		<since>2015-11-27 11:00:00</since>
+		<method>get</method>
+		<pretty>0</pretty>
+		<debug>all</debug>
+		<limit>100</limit>
+		<suppress_http_code>1</suppress_http_code>
+		<until>2016-01-15 10:59:59</until>
+	</payload>
+	<inputFile>input.txt</inputFile>
+	<outputFile>out.csv</outputFile>
+	<proxies>
+	</proxies>
+</data>
